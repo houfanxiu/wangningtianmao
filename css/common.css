@@ -1,0 +1,25 @@
+body{margin: 0;font:12px "Microsoft Yahei","SimSun",sans-serif;background: #fff;}
+p {margin: 0;}
+ul {margin: 0;padding:0;}
+li {list-style: none;}
+h1,h2,h3 {margin: 0;}
+a {text-decoration: none;}
+img {border: none;}
+dl,dt,dd {margin: 0;padding: 0;}
+.clearfix:after {content: ".";display: block;clear: both;visibility: hidden;height: 0;}
+.clearfix {zoom: 1;}
+.fl {float: left;}
+.fr {float: right;}
+input,button{ margin:0; padding:0; outline: none;}
+i {font-style: normal;}
+.act:hover {
+    box-shadow: 0 15px 30px rgba(0,0,0,0.1);
+    transform: translateY(-2px);
+    transition: all .2s linear;
+}
+
+.iconfont {
+  font-family: 'iconfont';
+  font-size: 12px;
+}
+
